@@ -1,6 +1,6 @@
 {
   "name": "@xuyanfeng/fs-extra-browserify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fs-extra browser empty implementation",
   "main": "index.js",
   "scripts": {
