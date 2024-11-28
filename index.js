@@ -4,6 +4,7 @@ function tip() {
 module.exports = {
   ensureDirSync: tip,
   emptyDirSync: tip,
+  ensureFileSync: tip,
   copySync: tip,
   copyFileSync: tip,
   existsSync: tip,
