@@ -9,4 +9,5 @@ module.exports = {
   copyFileSync: tip,
   existsSync: tip,
   writeFileSync: tip,
+  unlinkSync: tip,
 }
